@@ -1,0 +1,102 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Black Bear Patriarch,Elder Mountain Boar,Wood Lurker,Mo'grosh Enforcer,Mo'grosh Ogre",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -5306.53174,
+        -4077.22656,
+        327.9576
+      ],
+      [
+        -5253.36426,
+        -4116.849,
+        332.3708
+      ],
+      [
+        -5068.81348,
+        -4086.45337,
+        311.430328
+      ],
+      [
+        -4978.345,
+        -4013.31982,
+        298.97995
+      ],
+      [
+        -4903.518,
+        -3915.745,
+        300.861664
+      ],
+      [
+        -4862.23633,
+        -3780.5686,
+        306.088531
+      ],
+      [
+        -4859.314,
+        -3675.64087,
+        309.716949
+      ],
+      [
+        -4978.66162,
+        -3678.92432,
+        310.5335
+      ],
+      [
+        -5093.09668,
+        -3714.41162,
+        312.713135
+      ],
+      [
+        -5181.055,
+        -3768.015,
+        315.232971
+      ],
+      [
+        -5245.85547,
+        -3831.489,
+        320.5351
+      ]
+    ],
+    "BoneCount": 11,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Aldren Cordon",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -5702.525,
+      "Y": -3781.78784,
+      "Z": 322.819153
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Aldren Cordon",
+    "SellVendorVec": {
+      "X": -5702.525,
+      "Y": -3781.78784,
+      "Z": 322.819153
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

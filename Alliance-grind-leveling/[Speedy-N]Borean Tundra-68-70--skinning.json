@@ -1,0 +1,127 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 2000,
+    "GatherWhiteList": "Cobalt Deposit,Goldclover,Tiger Lily,Firethorn",
+    "CombatWhiteList": "Wooly Mammoth Bull,Mammoth Calf,Wooly Mammoth,Ghostly Sage,Risen Longrunner",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        3368.85645,
+        5257.951,
+        32.10347
+      ],
+      [
+        3553.75684,
+        5198.23145,
+        26.28533
+      ],
+      [
+        3721.63574,
+        5177.51367,
+        24.1290722
+      ],
+      [
+        3782.10181,
+        5271.693,
+        25.6736412
+      ],
+      [
+        3916.01367,
+        5379.145,
+        26.202877
+      ],
+      [
+        4066.64624,
+        5422.253,
+        26.0674858
+      ],
+      [
+        4029.61938,
+        5625.19336,
+        43.5324249
+      ],
+      [
+        3965.311,
+        5782.111,
+        74.08042
+      ],
+      [
+        3825.17944,
+        5768.895,
+        67.74089
+      ],
+      [
+        3835.34326,
+        5541.384,
+        41.324913
+      ],
+      [
+        3799.70044,
+        5428.771,
+        35.74538
+      ],
+      [
+        3703.96777,
+        5429.039,
+        42.0421562
+      ],
+      [
+        3593.35181,
+        5365.93555,
+        36.72838
+      ],
+      [
+        3470.48022,
+        5375.062,
+        45.0487328
+      ],
+      [
+        3372.788,
+        5507.868,
+        64.34367
+      ],
+      [
+        3266.2207,
+        5417.654,
+        51.1605721
+      ]
+    ],
+    "BoneCount": 16,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Librarian Whitley",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 3646.28955,
+      "Y": 5888.98145,
+      "Z": 140.104721
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Librarian Whitley",
+    "SellVendorVec": {
+      "X": 3646.28955,
+      "Y": 5888.98145,
+      "Z": 140.104721
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Bloodsail Mage,Bloodsail Raider,Bloodsail Swashbuckler,Bloodsail Warlock",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -14223.0117,
+        199.503052,
+        8.336771
+      ],
+      [
+        -14296.36,
+        70.54806,
+        1.81413364
+      ],
+      [
+        -14391.8848,
+        88.31776,
+        5.639276
+      ],
+      [
+        -14477.1191,
+        130.5872,
+        3.21919751
+      ],
+      [
+        -14554.8574,
+        171.067276,
+        2.72661066
+      ],
+      [
+        -14648.4922,
+        261.864349,
+        0.746717155
+      ],
+      [
+        -14673.5811,
+        341.456451,
+        4.500727
+      ],
+      [
+        -14722.8535,
+        480.574,
+        3.18256474
+      ],
+      [
+        -14740.7188,
+        512.128357,
+        3.44480276
+      ],
+      [
+        -14704.2637,
+        533.713562,
+        1.31938648
+      ],
+      [
+        -14665.4043,
+        496.263123,
+        3.19695568
+      ],
+      [
+        -14655.5977,
+        416.94043,
+        2.17949557
+      ],
+      [
+        -14607.498,
+        349.514984,
+        3.876146
+      ],
+      [
+        -14576.6553,
+        270.436,
+        7.78151464
+      ],
+      [
+        -14403.873,
+        131.6047,
+        0.8815567
+      ]
+    ],
+    "BoneCount": 15,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Haren Kanmae",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -14340.6006,
+      "Y": 414.604126,
+      "Z": 6.628293
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Haren Kanmae",
+    "SellVendorVec": {
+      "X": -14340.6006,
+      "Y": 414.604126,
+      "Z": 6.628293
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

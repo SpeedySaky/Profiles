@@ -1,0 +1,87 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Rumbling Earth-Heart,Raging Fire-Soul,Storming Wind-Ripper",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -720.1977,
+        6652.28564,
+        176.045166
+      ],
+      [
+        -843.366943,
+        6598.574,
+        175.753723
+      ],
+      [
+        -848.6024,
+        6463.11572,
+        174.932877
+      ],
+      [
+        -885.5394,
+        6387.23242,
+        199.055817
+      ],
+      [
+        -791.6516,
+        6429.448,
+        172.691315
+      ],
+      [
+        -715.7573,
+        6387.584,
+        171.546
+      ],
+      [
+        -722.0628,
+        6461.181,
+        173.608139
+      ],
+      [
+        -659.515259,
+        6508.55762,
+        171.5516
+      ]
+    ],
+    "BoneCount": 8,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Pilot Marsha",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -1480.12219,
+      "Y": 6357.97656,
+      "Z": 34.264843
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Pilot Marsha",
+    "SellVendorVec": {
+      "X": -1480.12219,
+      "Y": 6357.97656,
+      "Z": 34.264843
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

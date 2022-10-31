@@ -1,0 +1,158 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 1000,
+    "GatherWhiteList": "Bruiseweed,Briarthorn,Kingsblood",
+    "CombatWhiteList": "Wildthorn Venomspitter,Ghostpaw Howler",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": true,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [
+      [
+        2001.99414,
+        -1735.67065,
+        66.67875
+      ],
+      [
+        1870.69031,
+        -1769.19006,
+        62.10329
+      ],
+      [
+        1862.26208,
+        -1582.26648,
+        69.57616
+      ]
+    ],
+    "BlackListCount": 3,
+    "Bones": [
+      [
+        2116.79248,
+        -1647.95276,
+        75.33277
+      ],
+      [
+        2049.43921,
+        -1712.59155,
+        71.04842
+      ],
+      [
+        2043.492,
+        -1868.98718,
+        98.503624
+      ],
+      [
+        1992.42688,
+        -1900.73242,
+        100.061691
+      ],
+      [
+        1856.62329,
+        -1850.228,
+        99.70529
+      ],
+      [
+        1833.80786,
+        -1801.667,
+        77.4715042
+      ],
+      [
+        1859.7478,
+        -1781.85229,
+        60.5639877
+      ],
+      [
+        1864.17993,
+        -1711.65259,
+        58.6881142
+      ],
+      [
+        1889.65845,
+        -1686.18689,
+        55.3403358
+      ],
+      [
+        1867.66284,
+        -1625.87354,
+        63.55572
+      ],
+      [
+        1834.26,
+        -1601.04822,
+        71.08963
+      ],
+      [
+        1935.56677,
+        -1569.044,
+        62.7525024
+      ],
+      [
+        1965.47461,
+        -1529.35889,
+        66.28578
+      ],
+      [
+        1923.25818,
+        -1454.95532,
+        87.69333
+      ],
+      [
+        1891.81238,
+        -1399.30688,
+        91.46014
+      ],
+      [
+        1982.98474,
+        -1420.66577,
+        91.02741
+      ],
+      [
+        2019.31274,
+        -1461.9,
+        85.53118
+      ],
+      [
+        2002.723,
+        -1540.4823,
+        65.78218
+      ],
+      [
+        1997.75745,
+        -1559.51221,
+        63.1032944
+      ]
+    ],
+    "BoneCount": 19,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Bhaldaran Ravenshade",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 2087.082,
+      "Y": -1199.166,
+      "Z": 101.707275
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Bhaldaran Ravenshade",
+    "SellVendorVec": {
+      "X": 2087.082,
+      "Y": -1199.166,
+      "Z": 101.707275
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

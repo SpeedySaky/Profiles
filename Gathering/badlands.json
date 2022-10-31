@@ -1,0 +1,162 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 5000,
+    "GatherWhiteList": "Mithril Deposit,Iron Deposit,Silver Vein,Gold Vein,Truesilver Deposit,Fadeleaf,Firebloom,Goldthorn,Khadgar's Whisker,Kingsblood,Purple Lotus,Wild Steelbloom",
+    "CombatWhiteList": "",
+    "CombatRadius": 40,
+    "AutoTarget": false,
+    "AutoLoot": false,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -6888.991,
+        -2272.494,
+        240.743759
+      ],
+      [
+        -7098.60156,
+        -2341.87964,
+        242.570953
+      ],
+      [
+        -7303.569,
+        -2276.31,
+        244.6249
+      ],
+      [
+        -7179.71143,
+        -2445.01538,
+        242.346924
+      ],
+      [
+        -7007.795,
+        -2531.19824,
+        243.252563
+      ],
+      [
+        -7108.868,
+        -2696.58276,
+        241.667328
+      ],
+      [
+        -7105.83643,
+        -3073.98267,
+        243.724625
+      ],
+      [
+        -7037.785,
+        -3640.77954,
+        241.667953
+      ],
+      [
+        -6766.996,
+        -3625.18872,
+        241.666763
+      ],
+      [
+        -6764.253,
+        -3806.775,
+        264.332184
+      ],
+      [
+        -6949.171,
+        -3940.451,
+        263.889038
+      ],
+      [
+        -6904.265,
+        -4066.9292,
+        264.319427
+      ],
+      [
+        -6560.37354,
+        -4112.93848,
+        265.293457
+      ],
+      [
+        -6442.43555,
+        -4100.323,
+        263.888763
+      ],
+      [
+        -6486.846,
+        -4002.88647,
+        264.5306
+      ],
+      [
+        -6402.14,
+        -3947.81421,
+        277.830139
+      ],
+      [
+        -6451.996,
+        -3811.46729,
+        309.967529
+      ],
+      [
+        -6811.1543,
+        -3598.80249,
+        243.178009
+      ],
+      [
+        -6998.139,
+        -3389.51221,
+        241.667984
+      ],
+      [
+        -6752.10449,
+        -3257.891,
+        240.743988
+      ],
+      [
+        -6781.115,
+        -2792.7063,
+        242.1507
+      ],
+      [
+        -6796.272,
+        -2521.79126,
+        244.438187
+      ],
+      [
+        -6895.365,
+        -2330.38086,
+        241.666931
+      ]
+    ],
+    "BoneCount": 23,
+    "RepairAtVendor": false,
+    "RepairVendorName": null,
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": null,
+    "SellVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UseSellVendor": false,
+    "PurchaseAmount": 0,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

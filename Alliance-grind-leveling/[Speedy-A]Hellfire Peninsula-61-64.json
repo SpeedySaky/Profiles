@@ -1,0 +1,83 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 50,
+    "GatherWhiteList": "Felweed,Dreaming Glory,Dreamfoil,Golden Sansam,Fel Iron Deposit",
+    "CombatWhiteList": "Deranged Helboar,Bonestripper Vulture",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [
+      [
+        -81.15516,
+        4221.895,
+        86.18932
+      ],
+      [
+        -62.36763,
+        4235.01465,
+        85.76725
+      ],
+      [
+        -86.97897,
+        4265.19434,
+        81.82908
+      ],
+      [
+        -67.84591,
+        4269.796,
+        83.84732
+      ]
+    ],
+    "BlackListCount": 4,
+    "Bones": [
+      [
+        -121.551712,
+        4126.502,
+        91.34295
+      ],
+      [
+        -93.63746,
+        4217.49268,
+        84.14042
+      ],
+      [
+        -71.6034,
+        4287.127,
+        82.5420151
+      ]
+    ],
+    "BoneCount": 3,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Talaara",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 105.501846,
+      "Y": 4337.619,
+      "Z": 101.466278
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Talaara",
+    "SellVendorVec": {
+      "X": 105.501846,
+      "Y": 4337.619,
+      "Z": 101.466278
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

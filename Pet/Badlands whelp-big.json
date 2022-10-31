@@ -1,0 +1,118 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "Mithril Deposit,Iron Deposit,Gold Vein,Truesilver Deposit",
+    "CombatWhiteList": "Scalding Whelp",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": true,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [
+      [
+        -6958.34473,
+        -3975.107,
+        264.5095
+      ]
+    ],
+    "BlackListCount": 1,
+    "Bones": [
+      [
+        -6768.2085,
+        -3789.647,
+        262.0466
+      ],
+      [
+        -6750.29932,
+        -3881.31738,
+        264.334137
+      ],
+      [
+        -6874.46533,
+        -3908.19165,
+        264.334473
+      ],
+      [
+        -6984.713,
+        -3931.56152,
+        263.888672
+      ],
+      [
+        -6931.39551,
+        -4019.975,
+        264.253632
+      ],
+      [
+        -6872.603,
+        -4083.33057,
+        264.903625
+      ],
+      [
+        -6748.472,
+        -4096.55469,
+        264.212769
+      ],
+      [
+        -6609.829,
+        -4103.28369,
+        264.334229
+      ],
+      [
+        -6540.16846,
+        -4121.738,
+        264.4699
+      ],
+      [
+        -6447.554,
+        -4153.418,
+        284.45
+      ],
+      [
+        -6386.483,
+        -4184.837,
+        277.031372
+      ],
+      [
+        -6473.007,
+        -4049.3125,
+        265.578247
+      ],
+      [
+        -6417.851,
+        -3985.08228,
+        264.830261
+      ]
+    ],
+    "BoneCount": 13,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Jazzrik",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -6760.187,
+      "Y": -3135.5542,
+      "Z": 241.165512
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Jazzrik",
+    "SellVendorVec": {
+      "X": -6760.187,
+      "Y": -3135.5542,
+      "Z": 241.165512
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

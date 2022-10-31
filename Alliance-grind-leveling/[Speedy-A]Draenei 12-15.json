@@ -1,0 +1,127 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 500,
+    "GatherWhiteList": "Tin Vein,Copper Vein",
+    "CombatWhiteList": "Grizzled Brown Bear,Thistle Lasher,Corrupted Treant",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -1885.48694,
+        -11997.8652,
+        18.1677818
+      ],
+      [
+        -1776.04248,
+        -11947.0889,
+        15.5788994
+      ],
+      [
+        -1720.11047,
+        -11920.5615,
+        13.1389971
+      ],
+      [
+        -1844.93286,
+        -11812.751,
+        31.6649857
+      ],
+      [
+        -1876.21057,
+        -11722.1074,
+        35.46379
+      ],
+      [
+        -1974.04089,
+        -11704.6719,
+        41.61047
+      ],
+      [
+        -2118.651,
+        -11642.4941,
+        44.41614
+      ],
+      [
+        -2152.67871,
+        -11618.7,
+        36.6356239
+      ],
+      [
+        -2245.61084,
+        -11633.2451,
+        31.5235558
+      ],
+      [
+        -2299.961,
+        -11711.3291,
+        26.8305511
+      ],
+      [
+        -2305.96753,
+        -11865.8857,
+        23.747406
+      ],
+      [
+        -2212.897,
+        -11955.375,
+        32.1001472
+      ],
+      [
+        -2167.133,
+        -11986.3652,
+        32.9726257
+      ],
+      [
+        -2068.71216,
+        -12137.27,
+        29.9750977
+      ],
+      [
+        -1954.427,
+        -12134.3936,
+        15.4139395
+      ],
+      [
+        -1987.04993,
+        -12048.5557,
+        24.6730347
+      ]
+    ],
+    "BoneCount": 16,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Beega",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -1990.95837,
+      "Y": -11814.4658,
+      "Z": 54.50053
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Beega",
+    "SellVendorVec": {
+      "X": -1990.95837,
+      "Y": -11814.4658,
+      "Z": 54.50053
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

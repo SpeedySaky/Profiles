@@ -1,0 +1,107 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Skeletal Flayer,Slavering Ghoul",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        1020.96704,
+        -1614.87134,
+        63.94285
+      ],
+      [
+        1042.73242,
+        -1651.19653,
+        60.86328
+      ],
+      [
+        1018.49487,
+        -1675.77087,
+        65.73317
+      ],
+      [
+        1026.27869,
+        -1706.39685,
+        62.6049652
+      ],
+      [
+        1043.695,
+        -1768.10083,
+        64.19803
+      ],
+      [
+        1097.35742,
+        -1799.21094,
+        61.2428551
+      ],
+      [
+        1148.93262,
+        -1779.16467,
+        60.73805
+      ],
+      [
+        1182.16077,
+        -1754.27271,
+        61.1516151
+      ],
+      [
+        1171.21936,
+        -1713.0968,
+        60.86125
+      ],
+      [
+        1163.734,
+        -1682.846,
+        64.13526
+      ],
+      [
+        1107.33167,
+        -1657.12354,
+        62.80255
+      ],
+      [
+        1081.356,
+        -1643.6355,
+        68.56728
+      ]
+    ],
+    "BoneCount": 12,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Leonard Porter",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 949.8846,
+      "Y": -1435.64917,
+      "Z": 62.5899162
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Leonard Porter",
+    "SellVendorVec": {
+      "X": 949.8846,
+      "Y": -1435.64917,
+      "Z": 62.5899162
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

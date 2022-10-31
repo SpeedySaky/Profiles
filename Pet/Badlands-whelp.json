@@ -1,0 +1,77 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 1000,
+    "GatherWhiteList": "Mithril Deposit,Iron Deposit,Gold Vein,Silver Vein",
+    "CombatWhiteList": "Scalding Whelp",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": true,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -6766.95459,
+        -3784.34839,
+        260.396637
+      ],
+      [
+        -6748.89551,
+        -3882.131,
+        264.334839
+      ],
+      [
+        -6906.47949,
+        -4069.77686,
+        264.3376
+      ],
+      [
+        -7016.70557,
+        -3920.37939,
+        263.89502
+      ],
+      [
+        -6968.30957,
+        -3889.94824,
+        275.0277
+      ],
+      [
+        -6892.498,
+        -3897.34131,
+        267.420441
+      ]
+    ],
+    "BoneCount": 6,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Jazzrik",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -6760.187,
+      "Y": -3135.5542,
+      "Z": 241.164413
+    },
+    "SellGrays": true,
+    "SellGraysAt": 2,
+    "SellVendorName": "Jazzrik",
+    "SellVendorVec": {
+      "X": -6760.187,
+      "Y": -3135.5542,
+      "Z": 241.164413
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Black Ravager,Nightbane Worgen,Black Ravager Mastiff,Nightbane Shadow Weaver",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -10318.6973,
+        -985.1076,
+        47.5991554
+      ],
+      [
+        -10453.5518,
+        -971.4309,
+        45.5585632
+      ],
+      [
+        -10588.9639,
+        -964.342,
+        51.52576
+      ],
+      [
+        -10551.3379,
+        -869.0661,
+        48.3263054
+      ],
+      [
+        -10457.76,
+        -876.7734,
+        44.59584
+      ],
+      [
+        -10428.48,
+        -882.834045,
+        46.4511032
+      ],
+      [
+        -10373.9395,
+        -854.1744,
+        43.8979263
+      ],
+      [
+        -10282.7773,
+        -845.5534,
+        42.68734
+      ],
+      [
+        -10189.1182,
+        -774.2156,
+        48.16409
+      ],
+      [
+        -10209.9072,
+        -845.469849,
+        40.7110367
+      ],
+      [
+        -10346.7666,
+        -983.2354,
+        48.0147476
+      ]
+    ],
+    "BoneCount": 11,
+    "RepairAtVendor": false,
+    "RepairVendorName": null,
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": null,
+    "SellVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UseSellVendor": false,
+    "PurchaseAmount": 0,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

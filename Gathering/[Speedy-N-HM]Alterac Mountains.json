@@ -1,0 +1,202 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 1000,
+    "GatherWhiteList": "Tin Vein,Silver Vein,Gold Vein,Iron Deposit,Mithril Deposit,Truesilver Deposit,Stranglekelp,Bruiseweed,Wild Steelbloom,Grave Moss,Kingsblood,Fadeleaf,Goldthorn,Khadgar's Whisker,Wintersbite",
+    "CombatWhiteList": "",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        473.623627,
+        -614.9535,
+        171.302383
+      ],
+      [
+        633.9923,
+        -540.1363,
+        179.982742
+      ],
+      [
+        837.5497,
+        -499.7806,
+        139.137314
+      ],
+      [
+        757.8195,
+        -662.5163,
+        150.253677
+      ],
+      [
+        673.2943,
+        -753.9645,
+        165.5622
+      ],
+      [
+        625.8624,
+        -999.275146,
+        165.153076
+      ],
+      [
+        746.1857,
+        -1035.834,
+        151.034
+      ],
+      [
+        879.232361,
+        -883.7894,
+        130.4479
+      ],
+      [
+        981.2929,
+        -750.1691,
+        111.170685
+      ],
+      [
+        1014.94464,
+        -656.043152,
+        106.924652
+      ],
+      [
+        1099.117,
+        -629.1375,
+        85.8970642
+      ],
+      [
+        1161.89832,
+        -501.8726,
+        73.8041458
+      ],
+      [
+        1219.02832,
+        -342.483978,
+        44.05582
+      ],
+      [
+        1042.21606,
+        -309.8869,
+        51.2168
+      ],
+      [
+        948.2686,
+        -154.5093,
+        37.1181564
+      ],
+      [
+        815.1709,
+        -80.91458,
+        35.52181
+      ],
+      [
+        703.63324,
+        5.86070442,
+        40.6768341
+      ],
+      [
+        593.529663,
+        90.10676,
+        46.184433
+      ],
+      [
+        468.301056,
+        103.051895,
+        46.4294128
+      ],
+      [
+        346.6577,
+        81.15872,
+        50.69329
+      ],
+      [
+        235.774857,
+        18.6633759,
+        62.762188
+      ],
+      [
+        183.4925,
+        -98.685585,
+        113.3585
+      ],
+      [
+        354.600555,
+        -44.47708,
+        146.038467
+      ],
+      [
+        687.850159,
+        -126.771973,
+        140.2941
+      ],
+      [
+        569.5469,
+        -135.087677,
+        143.75647
+      ],
+      [
+        436.243683,
+        -66.8748245,
+        147.190857
+      ],
+      [
+        305.046356,
+        -71.7044,
+        141.5894
+      ],
+      [
+        224.840973,
+        -198.679062,
+        138.03476
+      ],
+      [
+        196.929153,
+        -320.007751,
+        155.53743
+      ],
+      [
+        318.395844,
+        -393.3805,
+        170.831635
+      ],
+      [
+        347.172363,
+        -539.6217,
+        161.754944
+      ]
+    ],
+    "BoneCount": 31,
+    "RepairAtVendor": false,
+    "RepairVendorName": null,
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": null,
+    "SellVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UseSellVendor": false,
+    "PurchaseAmount": 0,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

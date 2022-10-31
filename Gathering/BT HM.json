@@ -1,0 +1,143 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 5000,
+    "GatherWhiteList": "Goldclover,Firethorn,Tiger Lily,Cobalt Deposit,Rich Cobalt Deposit,Saronite Deposit,Rich Saronite Deposit,Pure Saronite Deposit",
+    "CombatWhiteList": "",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [
+      [
+        3434.1853,
+        3205.54,
+        27.9534473
+      ],
+      [
+        3082.19629,
+        4772.797,
+        1.10590565
+      ],
+      [
+        3628.25586,
+        3123.429,
+        52.2401543
+      ],
+      [
+        4528.785,
+        5334.739,
+        82.10363
+      ],
+      [
+        3287.97,
+        3286.69165,
+        27.0889454
+      ]
+    ],
+    "BlackListCount": 5,
+    "Bones": [
+      [
+        4313.278,
+        4919.7373,
+        25.1067371
+      ],
+      [
+        4485.853,
+        5328.24561,
+        81.10369
+      ],
+      [
+        4194.12451,
+        5915.01855,
+        58.5710068
+      ],
+      [
+        3713.18726,
+        5479.18652,
+        39.0641975
+      ],
+      [
+        3284.87549,
+        5474.14648,
+        52.0668526
+      ],
+      [
+        2777.34863,
+        5669.62,
+        45.10464
+      ],
+      [
+        2965.30713,
+        4931.322,
+        5.51159573
+      ],
+      [
+        3208.10156,
+        4637.44141,
+        33.2906532
+      ],
+      [
+        3268.80713,
+        4364.67969,
+        25.4889832
+      ],
+      [
+        3200.09668,
+        3960.84155,
+        27.5441437
+      ],
+      [
+        3332.031,
+        3302.842,
+        27.92126
+      ],
+      [
+        3638.67749,
+        3177.74219,
+        50.5822754
+      ],
+      [
+        3538.944,
+        3848.07324,
+        32.54602
+      ],
+      [
+        4126.32861,
+        4093.75171,
+        93.22279
+      ]
+    ],
+    "BoneCount": 14,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Librarian Whitley",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 3646.28955,
+      "Y": 5888.98145,
+      "Z": 140.104721
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Librarian Whitley",
+    "SellVendorVec": {
+      "X": 3646.28955,
+      "Y": 5888.98145,
+      "Z": 140.104721
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

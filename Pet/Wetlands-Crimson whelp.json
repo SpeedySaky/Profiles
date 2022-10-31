@@ -1,0 +1,138 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 1000,
+    "GatherWhiteList": "Wild Steelbloom,Briarthorn,Kingsblood,Liferoot",
+    "CombatWhiteList": "Flamesnorting Whelp,Crimson Whelp,Lost Whelp",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": true,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [
+      [
+        -3446.93774,
+        -3248.56128,
+        22.2570133
+      ],
+      [
+        -3558.63281,
+        -3236.33154,
+        26.724226
+      ],
+      [
+        -3439.00366,
+        -3112.21,
+        21.8978424
+      ],
+      [
+        -3407.21069,
+        -3068.55054,
+        23.7582989
+      ],
+      [
+        -3392.288,
+        -3038.25122,
+        22.682476
+      ],
+      [
+        -3172.62,
+        -2450.45142,
+        6.34124565
+      ],
+      [
+        -3228.11768,
+        -2456.13672,
+        14.0833769
+      ]
+    ],
+    "BlackListCount": 7,
+    "Bones": [
+      [
+        -3144.4187,
+        -2961.36353,
+        24.466362
+      ],
+      [
+        -3039.22461,
+        -2924.24976,
+        27.7320671
+      ],
+      [
+        -3058.34668,
+        -2998.476,
+        34.5108337
+      ],
+      [
+        -3214.682,
+        -3062.90845,
+        22.66939
+      ],
+      [
+        -3341.01538,
+        -3134.8772,
+        24.55853
+      ],
+      [
+        -3374.57568,
+        -3236.89429,
+        23.125658
+      ],
+      [
+        -3524.32446,
+        -3270.03662,
+        28.1597881
+      ],
+      [
+        -3576.561,
+        -3176.3606,
+        24.45907
+      ],
+      [
+        -3450.62061,
+        -3134.779,
+        21.5255814
+      ],
+      [
+        -3332.80664,
+        -3026.57153,
+        25.0751629
+      ],
+      [
+        -3287.1228,
+        -2951.641,
+        22.01663
+      ]
+    ],
+    "BoneCount": 11,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Edwina Monzor",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -3755.249,
+      "Y": -849.266357,
+      "Z": 9.944475
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Kixxle",
+    "SellVendorVec": {
+      "X": -3188.03247,
+      "Y": -2465.57031,
+      "Z": 9.562118
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

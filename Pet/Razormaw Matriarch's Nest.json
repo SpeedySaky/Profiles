@@ -1,0 +1,117 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "Razormaw Matriarch's Nest,Solid Chest",
+    "CombatWhiteList": "Highland Razormaw,Elder Razormaw",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": true,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -2981.99487,
+        -3273.47046,
+        54.20665
+      ],
+      [
+        -2983.37158,
+        -3315.95044,
+        60.2997627
+      ],
+      [
+        -3039.475,
+        -3264.27173,
+        68.63298
+      ],
+      [
+        -3053.69629,
+        -3205.726,
+        56.7741165
+      ],
+      [
+        -2980.89526,
+        -3176.2793,
+        56.44209
+      ],
+      [
+        -2922.97559,
+        -3186.83447,
+        57.2583771
+      ],
+      [
+        -2908.62622,
+        -3223.72729,
+        58.32911
+      ],
+      [
+        -2921.483,
+        -3228.5022,
+        58.4639435
+      ],
+      [
+        -2942.99316,
+        -3233.36621,
+        58.56025
+      ],
+      [
+        -2950.21143,
+        -3264.56543,
+        61.3013077
+      ],
+      [
+        -2932.81421,
+        -3234.67017,
+        54.2063866
+      ],
+      [
+        -2926.77246,
+        -3257.74463,
+        54.206707
+      ],
+      [
+        -2924.185,
+        -3295.32544,
+        54.206707
+      ],
+      [
+        -2954.94775,
+        -3300.6333,
+        54.206707
+      ]
+    ],
+    "BoneCount": 14,
+    "RepairAtVendor": false,
+    "RepairVendorName": null,
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": null,
+    "SellVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UseSellVendor": false,
+    "PurchaseAmount": 0,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

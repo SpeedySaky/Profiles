@@ -1,0 +1,102 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 1000,
+    "GatherWhiteList": "Bruiseweed,Kingsblood,Mageroyal,Briarthorn",
+    "CombatWhiteList": "Shadowhorn Stag,Ashenvale Bear",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        2173.90381,
+        -968.939,
+        95.89993
+      ],
+      [
+        2153.88721,
+        -887.7236,
+        96.97485
+      ],
+      [
+        1985.87036,
+        -810.424255,
+        97.903656
+      ],
+      [
+        1976.90991,
+        -761.294067,
+        98.20895
+      ],
+      [
+        2007.68958,
+        -713.776062,
+        100.902321
+      ],
+      [
+        1997.986,
+        -597.395142,
+        100.877945
+      ],
+      [
+        2038.91687,
+        -557.4962,
+        101.138184
+      ],
+      [
+        2212.237,
+        -568.4515,
+        102.242058
+      ],
+      [
+        2136.13,
+        -632.509,
+        104.156769
+      ],
+      [
+        2171.21826,
+        -726.4739,
+        104.54232
+      ],
+      [
+        2208.60449,
+        -850.7191,
+        101.22879
+      ]
+    ],
+    "BoneCount": 11,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Bhaldaran Ravenshade",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 2087.082,
+      "Y": -1199.166,
+      "Z": 101.707344
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Bhaldaran Ravenshade",
+    "SellVendorVec": {
+      "X": 2087.082,
+      "Y": -1199.166,
+      "Z": 101.707344
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

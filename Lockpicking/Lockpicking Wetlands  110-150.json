@@ -1,0 +1,92 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "Battered Footlocker",
+    "CombatWhiteList": "",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -3297.181,
+        -976.0401,
+        10.9061441
+      ],
+      [
+        -3229.96,
+        -978.1841,
+        6.99738741
+      ],
+      [
+        -3167.96118,
+        -1030.54944,
+        7.076324
+      ],
+      [
+        -3197.31738,
+        -1125.39124,
+        10.5101376
+      ],
+      [
+        -3187.686,
+        -1222.88123,
+        9.394288
+      ],
+      [
+        -3200.45386,
+        -1297.13623,
+        9.629186
+      ],
+      [
+        -3176.07617,
+        -1346.3031,
+        7.58209324
+      ],
+      [
+        -3260.56934,
+        -1353.44629,
+        9.145662
+      ],
+      [
+        -3255.77148,
+        -1187.29114,
+        9.146268
+      ]
+    ],
+    "BoneCount": 9,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Edwina Monzor",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -3755.03516,
+      "Y": -848.8828,
+      "Z": 9.940536
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Edwina Monzor",
+    "SellVendorVec": {
+      "X": -3755.03516,
+      "Y": -848.8828,
+      "Z": 9.940536
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

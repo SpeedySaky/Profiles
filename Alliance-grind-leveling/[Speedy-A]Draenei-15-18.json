@@ -1,0 +1,82 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "Copper Vein,Tin Vein,Silver Vein",
+    "CombatWhiteList": "Elder Brown Bear,Royal Blue Flutterer,Infected Wildkin,Irradiated Wildkin,Mutated Constrictor",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -1570.502,
+        -11676.1387,
+        35.0627441
+      ],
+      [
+        -1522.9408,
+        -11773.292,
+        23.9312248
+      ],
+      [
+        -1415.94666,
+        -11796.3438,
+        17.69256
+      ],
+      [
+        -1342.669,
+        -11707.4,
+        16.5617352
+      ],
+      [
+        -1311.9198,
+        -11542.0732,
+        8.00822449
+      ],
+      [
+        -1429.17737,
+        -11562.6543,
+        11.3206348
+      ],
+      [
+        -1582.44666,
+        -11568.1924,
+        34.6094437
+      ]
+    ],
+    "BoneCount": 7,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Beega",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -1990.95837,
+      "Y": -11814.4658,
+      "Z": 54.5023766
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Beega",
+    "SellVendorVec": {
+      "X": -1990.95837,
+      "Y": -11814.4658,
+      "Z": 54.5023766
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

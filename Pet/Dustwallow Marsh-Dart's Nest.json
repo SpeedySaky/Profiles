@@ -1,0 +1,97 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 1000,
+    "GatherWhiteList": "Dart's Nest",
+    "CombatWhiteList": "Bloodfen Raptor,Bloodfen Screecher",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        -2770.53418,
+        -3565.36841,
+        33.7702
+      ],
+      [
+        -2670.159,
+        -3600.14014,
+        34.958786
+      ],
+      [
+        -2635.85815,
+        -3579.37354,
+        44.34013
+      ],
+      [
+        -2577.51538,
+        -3522.61572,
+        36.537693
+      ],
+      [
+        -2569.03687,
+        -3522.19,
+        38.64927
+      ],
+      [
+        -2549.36523,
+        -3487.69214,
+        37.4433327
+      ],
+      [
+        -2610.92383,
+        -3423.83936,
+        41.56375
+      ],
+      [
+        -2618.792,
+        -3391.29688,
+        43.788044
+      ],
+      [
+        -2690.97339,
+        -3448.376,
+        34.1552
+      ],
+      [
+        -2717.336,
+        -3512.33179,
+        34.57053
+      ]
+    ],
+    "BoneCount": 10,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Marie Holdston",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -3785.932,
+      "Y": -4366.85,
+      "Z": 16.7881145
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Marie Holdston",
+    "SellVendorVec": {
+      "X": -3785.932,
+      "Y": -4366.85,
+      "Z": 16.7881145
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

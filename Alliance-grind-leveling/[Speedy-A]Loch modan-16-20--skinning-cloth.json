@@ -1,0 +1,93 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Mangy Mountain Boar,Stonesplinter Digger,Stonesplinter Geomancer,Stonesplinter Digger",
+    "CombatRadius": 50,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [
+      [
+        -5699.35645,
+        -3797.12744,
+        323.299255
+      ]
+    ],
+    "BlackListCount": 1,
+    "Bones": [
+      [
+        -5596.31445,
+        -3796.432,
+        316.272736
+      ],
+      [
+        -5565.8916,
+        -3723.03882,
+        315.624634
+      ],
+      [
+        -5624.626,
+        -3646.25,
+        316.3773
+      ],
+      [
+        -5693.67139,
+        -3597.33032,
+        315.9115
+      ],
+      [
+        -5697.95752,
+        -3665.35278,
+        311.740143
+      ],
+      [
+        -5704.31445,
+        -3538.32617,
+        305.335358
+      ],
+      [
+        -5756.42969,
+        -3792.72534,
+        326.896118
+      ],
+      [
+        -5603.522,
+        -3805.06323,
+        317.317719
+      ]
+    ],
+    "BoneCount": 8,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Aldren Cordon",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": -5702.525,
+      "Y": -3781.78784,
+      "Z": 322.818848
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Aldren Cordon",
+    "SellVendorVec": {
+      "X": -5702.525,
+      "Y": -3781.78784,
+      "Z": 322.818848
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]
