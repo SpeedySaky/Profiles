@@ -1,0 +1,122 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Noxious Plaguebat,Carrion Grub,Putrid Gargoyle,Rotting Sludge,Living Decay",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": false,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        2158.881,
+        -5213.82031,
+        81.52713
+      ],
+      [
+        2038.3208,
+        -5243.675,
+        86.4797058
+      ],
+      [
+        2062.752,
+        -5122.56055,
+        80.796875
+      ],
+      [
+        2049.19019,
+        -5024.528,
+        75.81813
+      ],
+      [
+        2034.1947,
+        -4952.832,
+        75.81747
+      ],
+      [
+        2103.84644,
+        -4898.06738,
+        75.33639
+      ],
+      [
+        2172.857,
+        -4868.50635,
+        84.432
+      ],
+      [
+        2213.70483,
+        -4928.413,
+        76.90011
+      ],
+      [
+        2247.888,
+        -4974.696,
+        72.72348
+      ],
+      [
+        2274.85522,
+        -5033.504,
+        75.92342
+      ],
+      [
+        2322.936,
+        -5093.7583,
+        74.52441
+      ],
+      [
+        2395.981,
+        -5086.71436,
+        80.96638
+      ],
+      [
+        2367.85254,
+        -5180.57,
+        76.77122
+      ],
+      [
+        2307.948,
+        -5216.459,
+        84.38166
+      ],
+      [
+        2220.646,
+        -5268.31836,
+        77.86655
+      ]
+    ],
+    "BoneCount": 15,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Craftsman Wilhelm",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 2261.17358,
+      "Y": -5321.298,
+      "Z": 81.86617
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Craftsman Wilhelm",
+    "SellVendorVec": {
+      "X": 2261.17358,
+      "Y": -5321.298,
+      "Z": 81.86617
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]
