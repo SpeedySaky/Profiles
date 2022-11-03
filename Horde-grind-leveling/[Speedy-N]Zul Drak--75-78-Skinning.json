@@ -1,0 +1,127 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Gundrak Raptor,Zul'Drak Bat",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": true,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        6946.42529,
+        -4164.038,
+        451.095
+      ],
+      [
+        7027.612,
+        -4132.95,
+        451.789673
+      ],
+      [
+        7050.342,
+        -4213.04932,
+        450.665955
+      ],
+      [
+        7120.415,
+        -4304.784,
+        450.5091
+      ],
+      [
+        7140.9917,
+        -4383.774,
+        451.713867
+      ],
+      [
+        7152.70068,
+        -4443.14355,
+        453.44223
+      ],
+      [
+        7206.64941,
+        -4509.711,
+        453.431061
+      ],
+      [
+        7101.9917,
+        -4541.307,
+        451.519745
+      ],
+      [
+        7095.919,
+        -4438.36035,
+        451.293671
+      ],
+      [
+        7007.967,
+        -4257.218,
+        449.179565
+      ],
+      [
+        6912.4126,
+        -4274.85645,
+        451.417145
+      ],
+      [
+        6766.72754,
+        -4252.57861,
+        451.330444
+      ],
+      [
+        6646.94531,
+        -4176.795,
+        454.709625
+      ],
+      [
+        6749.099,
+        -4137.766,
+        469.244934
+      ],
+      [
+        6825.284,
+        -4138.828,
+        466.87796
+      ],
+      [
+        6892.308,
+        -4184.9126,
+        450.791718
+      ]
+    ],
+    "BoneCount": 16,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Nofal",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 6893.032,
+      "Y": -4107.772,
+      "Z": 467.353668
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Nofal",
+    "SellVendorVec": {
+      "X": 6893.032,
+      "Y": -4107.772,
+      "Z": 467.353668
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

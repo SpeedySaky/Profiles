@@ -1,0 +1,128 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Stormforged War Golem,Stormforged Artificer",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [
+      [
+        8086.84033,
+        -308.6983,
+        863.796448
+      ]
+    ],
+    "BlackListCount": 1,
+    "Bones": [
+      [
+        7943.094,
+        -331.2187,
+        877.3864
+      ],
+      [
+        7974.352,
+        -249.273071,
+        849.500549
+      ],
+      [
+        8003.35547,
+        -282.776855,
+        847.16394
+      ],
+      [
+        7980.22949,
+        -340.506134,
+        848.1309
+      ],
+      [
+        7996.8457,
+        -362.292084,
+        851.7107
+      ],
+      [
+        8030.664,
+        -323.728,
+        864.5638
+      ],
+      [
+        8089.36133,
+        -258.8903,
+        859.523438
+      ],
+      [
+        8038.793,
+        -271.078,
+        849.4547
+      ],
+      [
+        8021.72461,
+        -233.195038,
+        847.206
+      ],
+      [
+        8076.98975,
+        -209.708832,
+        848.348755
+      ],
+      [
+        8069.506,
+        -188.616074,
+        848.2655
+      ],
+      [
+        8119.26953,
+        -175.216644,
+        860.590149
+      ],
+      [
+        8079.40527,
+        -143.0886,
+        857.030151
+      ],
+      [
+        7987.529,
+        -182.301529,
+        867.8234
+      ],
+      [
+        7926.701,
+        -262.8099,
+        874.7637
+      ]
+    ],
+    "BoneCount": 15,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Dargum Hammerdeep",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 8383.45,
+      "Y": -390.166046,
+      "Z": 903.1187
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Dargum Hammerdeep",
+    "SellVendorVec": {
+      "X": 8383.45,
+      "Y": -390.166046,
+      "Z": 903.1187
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]
