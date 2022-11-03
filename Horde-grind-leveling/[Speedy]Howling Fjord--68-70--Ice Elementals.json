@@ -1,0 +1,117 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Ice Elemental",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": false,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        2291.689,
+        -5040.468,
+        254.0732
+      ],
+      [
+        2273.68,
+        -5089.918,
+        253.538925
+      ],
+      [
+        2263.962,
+        -5167.536,
+        254.143478
+      ],
+      [
+        2202.71753,
+        -5194.258,
+        249.205368
+      ],
+      [
+        2174.505,
+        -5235.713,
+        245.8771
+      ],
+      [
+        2140.94678,
+        -5192.102,
+        241.786072
+      ],
+      [
+        2087.148,
+        -5201.22852,
+        232.705688
+      ],
+      [
+        2092.8667,
+        -5134.76563,
+        234.66954
+      ],
+      [
+        2112.75757,
+        -5094.006,
+        239.483627
+      ],
+      [
+        2152.96,
+        -5041.555,
+        240.14563
+      ],
+      [
+        2189.029,
+        -5017.37158,
+        246.822418
+      ],
+      [
+        2249.76367,
+        -4998.77,
+        244.219681
+      ],
+      [
+        2292.05249,
+        -4988.36865,
+        250.001938
+      ],
+      [
+        2295.25562,
+        -5053.468,
+        254.893829
+      ]
+    ],
+    "BoneCount": 14,
+    "RepairAtVendor": false,
+    "RepairVendorName": null,
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": null,
+    "SellVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UseSellVendor": false,
+    "PurchaseAmount": 0,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

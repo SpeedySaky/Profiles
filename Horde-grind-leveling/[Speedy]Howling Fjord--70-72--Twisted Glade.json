@@ -1,0 +1,107 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Thornvine Creeper,Blacksouled Keeper",
+    "CombatRadius": 100,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": true,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        2421.24829,
+        -4778.56445,
+        239.026031
+      ],
+      [
+        2353.663,
+        -4717.71338,
+        231.562225
+      ],
+      [
+        2313.24683,
+        -4670.43262,
+        223.7958
+      ],
+      [
+        2327.97681,
+        -4614.546,
+        219.408157
+      ],
+      [
+        2375.85156,
+        -4650.6665,
+        230.372543
+      ],
+      [
+        2403.76733,
+        -4605.53369,
+        227.068588
+      ],
+      [
+        2388.96777,
+        -4539.428,
+        218.423187
+      ],
+      [
+        2472.432,
+        -4579.88525,
+        235.57756
+      ],
+      [
+        2485.234,
+        -4624.95752,
+        234.3458
+      ],
+      [
+        2450.155,
+        -4636.25244,
+        230.240448
+      ],
+      [
+        2463.69165,
+        -4688.112,
+        229.100784
+      ],
+      [
+        2450.338,
+        -4742.29834,
+        233.184982
+      ]
+    ],
+    "BoneCount": 12,
+    "RepairAtVendor": false,
+    "RepairVendorName": null,
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": null,
+    "SellVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UseSellVendor": false,
+    "PurchaseAmount": 0,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]
