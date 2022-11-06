@@ -1,0 +1,127 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 1000,
+    "GatherWhiteList": "Saronite Deposit,Rich Saronite Deposit,Titanium Vein",
+    "CombatWhiteList": "Primordial Drake",
+    "CombatRadius": 30,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": true,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        6511.198,
+        4992.892,
+        -60.2435265
+      ],
+      [
+        6580.80469,
+        4975.864,
+        -39.21139
+      ],
+      [
+        6604.91553,
+        4897.57861,
+        -38.70557
+      ],
+      [
+        6622.116,
+        4841.462,
+        -31.802433
+      ],
+      [
+        6605.48828,
+        4788.04,
+        -35.9531326
+      ],
+      [
+        6569.19531,
+        4812.644,
+        -46.01733
+      ],
+      [
+        6559.137,
+        4887.92725,
+        -53.29914
+      ],
+      [
+        6478.36035,
+        4849.812,
+        -61.47331
+      ],
+      [
+        6429.5293,
+        4795.10547,
+        -71.7512054
+      ],
+      [
+        6393.78174,
+        4823.99268,
+        -76.95116
+      ],
+      [
+        6388.79248,
+        4866.56836,
+        -75.39167
+      ],
+      [
+        6446.714,
+        4922.12646,
+        -63.50174
+      ],
+      [
+        6448.31152,
+        4958.663,
+        -64.5072861
+      ],
+      [
+        6376.0415,
+        4934.532,
+        -76.69353
+      ],
+      [
+        6376.36768,
+        4982.871,
+        -77.48251
+      ],
+      [
+        6459.838,
+        4958.10059,
+        -63.78577
+      ]
+    ],
+    "BoneCount": 16,
+    "RepairAtVendor": false,
+    "RepairVendorName": null,
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": null,
+    "SellVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UseSellVendor": false,
+    "PurchaseAmount": 0,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]

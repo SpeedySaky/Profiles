@@ -1,0 +1,137 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 0,
+    "GatherWhiteList": "",
+    "CombatWhiteList": "Webbed Crusader,Carrion Fleshstripper,Forgotten Depths Slayer,Forgotten Depths Acolyte",
+    "CombatRadius": 60,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": true,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        6330.71533,
+        39.3252335,
+        388.91748
+      ],
+      [
+        6357.025,
+        60.9567871,
+        394.522064
+      ],
+      [
+        6343.34668,
+        119.415176,
+        391.581055
+      ],
+      [
+        6424.055,
+        194.4559,
+        396.1918
+      ],
+      [
+        6408.839,
+        241.91156,
+        395.70697
+      ],
+      [
+        6358.3623,
+        200.3557,
+        391.87085
+      ],
+      [
+        6266.76025,
+        224.867218,
+        388.902
+      ],
+      [
+        6226.804,
+        212.1521,
+        385.6697
+      ],
+      [
+        6175.777,
+        214.920181,
+        380.160156
+      ],
+      [
+        6175.36768,
+        165.730576,
+        374.483124
+      ],
+      [
+        6147.971,
+        150.206131,
+        372.791229
+      ],
+      [
+        6095.466,
+        162.484756,
+        365.790649
+      ],
+      [
+        6107.06738,
+        120.298965,
+        369.13092
+      ],
+      [
+        6122.589,
+        76.2450943,
+        370.3793
+      ],
+      [
+        6170.24072,
+        119.008873,
+        375.219452
+      ],
+      [
+        6192.61865,
+        116.817833,
+        377.699951
+      ],
+      [
+        6234.4,
+        148.692947,
+        380.3023
+      ],
+      [
+        6291.666,
+        98.97185,
+        391.018127
+      ]
+    ],
+    "BoneCount": 18,
+    "RepairAtVendor": true,
+    "RepairVendorName": "Durik Bronzebomb",
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 6253.793,
+      "Y": -27.5218658,
+      "Z": 410.048767
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": "Durik Bronzebomb",
+    "SellVendorVec": {
+      "X": 6253.793,
+      "Y": -27.5218658,
+      "Z": 410.048767
+    },
+    "UseSellVendor": true,
+    "PurchaseAmount": 1,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]
