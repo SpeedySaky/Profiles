@@ -1,0 +1,112 @@
+[
+  {
+    "ProfileType": "Gather",
+    "GatherDistance": 200,
+    "GatherWhiteList": "Saronite Deposit,Rich Saronite Deposit,Titanium Vein",
+    "CombatWhiteList": "Ravenous Jormungar,Icemaw Bear",
+    "CombatRadius": 40,
+    "AutoTarget": true,
+    "AutoLoot": true,
+    "AutoSkin": true,
+    "LoopUntilStopped": true,
+    "BlackListedAreas": [],
+    "BlackListCount": 0,
+    "Bones": [
+      [
+        7197.42334,
+        -2109.388,
+        766.5104
+      ],
+      [
+        7250.06445,
+        -2121.89819,
+        778.6785
+      ],
+      [
+        7262.412,
+        -2114.90039,
+        778.1198
+      ],
+      [
+        7284.90967,
+        -2111.722,
+        775.833
+      ],
+      [
+        7323.974,
+        -2093.67969,
+        772.704651
+      ],
+      [
+        7341.39648,
+        -2063.88867,
+        765.101
+      ],
+      [
+        7271.757,
+        -2075.02124,
+        763.195435
+      ],
+      [
+        7310.095,
+        -2023.67676,
+        763.3813
+      ],
+      [
+        7290.957,
+        -2003.38208,
+        765.986938
+      ],
+      [
+        7268.65332,
+        -1971.357,
+        769.687134
+      ],
+      [
+        7230.45166,
+        -1975.77637,
+        766.274536
+      ],
+      [
+        7213.03369,
+        -2003.08582,
+        767.9144
+      ],
+      [
+        7189.10156,
+        -2083.412,
+        765.8527
+      ]
+    ],
+    "BoneCount": 13,
+    "RepairAtVendor": false,
+    "RepairVendorName": null,
+    "RepairAt": 30,
+    "RepairVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "SellGrays": false,
+    "SellGraysAt": 2,
+    "SellVendorName": null,
+    "SellVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UseSellVendor": false,
+    "PurchaseAmount": 0,
+    "PurchaseVendorName": null,
+    "PurchaseVendorVec": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "UsePurchaseVendor": false,
+    "ItemToPurchase": null,
+    "FlightPath": false,
+    "FlightPathVectorCount": 0,
+    "FlightPathVectors": []
+  }
+]
