@@ -4,7 +4,7 @@
     "GatherDistance": 1000,
     "GatherWhiteList": "Mithril Deposit,Iron Deposit,Gold Vein,Silver Vein",
     "CombatWhiteList": "Scalding Whelp",
-    "CombatRadius": 60,
+    "CombatRadius": 100,
     "AutoTarget": true,
     "AutoLoot": true,
     "AutoSkin": true,
@@ -32,18 +32,14 @@
         -3920.37939,
         263.89502
       ],
-      [
-        -6968.30957,
-        -3889.94824,
-        275.0277
-      ],
+     
       [
         -6892.498,
         -3897.34131,
         267.420441
       ]
     ],
-    "BoneCount": 6,
+    "BoneCount": 5,
     "RepairAtVendor": true,
     "RepairVendorName": "Jazzrik",
     "RepairAt": 30,

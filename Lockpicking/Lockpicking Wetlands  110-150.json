@@ -1,7 +1,7 @@
 [
   {
     "ProfileType": "Gather",
-    "GatherDistance": 0,
+    "GatherDistance": 200,
     "GatherWhiteList": "Battered Footlocker",
     "CombatWhiteList": "",
     "CombatRadius": 60,
