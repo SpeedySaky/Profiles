@@ -4,7 +4,7 @@ StartMobAvoidance()
 
 AddNameToAvoidWhiteList("Witherbark Witch Doctor")
 AddNameToAvoidWhiteList("Witherbark Axe Thrower")
-AddNameToAvoidWhiteList("GGiant Plains Creeper")
+AddNameToAvoidWhiteList("Giant Plains Creeper")
 
 local InRangeSpawns = {}
 local IDs = {}
